@@ -1,2 +1,3 @@
 bottle==0.10.9
 gunicorn==0.13.4
+Mako==0.7.0
